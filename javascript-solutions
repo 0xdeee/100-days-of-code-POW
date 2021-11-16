@@ -28,7 +28,7 @@ const binaryArrayToNumber = arr => {
   return value;
 };
 
-3. 
+3. https://www.codewars.com/kata/5b180e9fedaa564a7000009a/javascript
 
 Solution:
 ---------
