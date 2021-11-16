@@ -27,3 +27,16 @@ const binaryArrayToNumber = arr => {
   }
   return value;
 };
+
+3. 
+
+Solution:
+---------
+
+function solve(s){
+  let i, lowercaseCount = 0;
+  for(i = 0; i < s.length; i++) {
+    lowercaseCount += (s.charAt(i) === s.charAt(i).toLowerCase()) ? 1 : 0;
+  }
+  return ((s.length - lowercaseCount) > lowercaseCount) ? s.toUpperCase() : s.toLowerCase();
+}
