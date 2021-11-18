@@ -59,3 +59,25 @@ function likes(names) {
     return `${names[0]}, ${names[1]} and ${names.length - 2} others like this`;
   }
 }
+
+5. https://www.codewars.com/kata/554a44516729e4d80b000012/javascript
+
+Solution:
+---------
+
+function nbMonths(startPriceOld, startPriceNew, savingperMonth, percentLossByMonth){
+  let i,month = 1, saved = 0;
+  if (startPriceOld >= startPriceNew) {
+    return [0, startPriceOld - startPriceNew]
+  }
+  while ((saved + startPriceOld) < startPriceNew) {
+    startPriceOld -= startPriceOld * (percentLossByMonth/100);
+    saved += savingperMonth;
+    startPriceNew -= startPriceNew * (percentLossByMonth/100);
+    month++;
+    if(month/2 === 0) {
+      percentLossByMonth += 0.5;
+    }
+  }
+  return [month, saved - startPriceNew]; 
+}
