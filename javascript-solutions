@@ -94,3 +94,22 @@ function solution(string) {
   }
   return result;
 }
+
+7. 
+
+Solution:
+---------
+
+function list(names){
+  let returnString = '';
+  for(let i = 0; i < names.length; i++) {
+    if(i === 0) {
+      returnString += names[i].name;
+    } else if (i > 0 && (i != (names.length-1))) {
+      returnString += `, ${names[i].name}`; 
+    } else {
+      returnString += ` & ${names[i].name}`;
+    }
+  }
+  return returnString;
+}
