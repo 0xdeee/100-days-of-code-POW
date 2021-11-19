@@ -81,3 +81,16 @@ function nbMonths(startPriceOld, startPriceNew, savingperMonth, percentLossByMon
   }
   return [month, saved - startPriceNew]; 
 }
+
+6. 
+
+Solution:
+---------
+
+function solution(string) {  
+  let result = "";
+  for(s in string) {
+    result += (string[s] === string[s].toUpperCase()) ? " " + string[s] : string[s];
+  }
+  return result;
+}
