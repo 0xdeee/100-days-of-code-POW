@@ -113,3 +113,21 @@ function list(names){
   }
   return returnString;
 }
+
+8. https://www.codewars.com/kata/54ff3102c1bad923760001f3
+
+Solution:
+---------
+
+function getCount(str) {
+  var vowelsCount = 0;
+  const vowels = ['a', 'e', 'i', 'o', 'u'];
+  // enter your majic here
+  let strArr = str.split('');
+  vowels.forEach( vowel => {
+    let tempArr;
+    tempArr = strArr.filter( character => character === vowel );
+    vowelsCount += tempArr.length;
+  });
+  return vowelsCount;
+}
