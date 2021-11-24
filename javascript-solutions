@@ -131,3 +131,12 @@ function getCount(str) {
   });
   return vowelsCount;
 }
+
+
+function isPangram(string){
+  let strArr = string.toLowerCase().split('');
+  let alphabet = 'abcdefghijklmnopqrstuvwxyz'.split('');
+  return alphabet.every((element) => {
+    strArr.indexOf(element) !== -1;
+  })
+}
