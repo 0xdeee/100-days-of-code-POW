@@ -34,6 +34,8 @@ https://twitter.com/0xdeee/status/1461548537423007744
 https://twitter.com/0xdeee/status/1462466065082896386
 
 ## Day 12
+https://twitter.com/0xdeee/status/1464662620707848194
+## Day 12
 https://twitter.com/0xdeee/status/1462476264564936706
 
 ## Day 13
