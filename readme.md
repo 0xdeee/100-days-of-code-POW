@@ -47,3 +47,6 @@ https://twitter.com/0xdeee/status/1463925659625934850
 
 ## Day 16
 https://twitter.com/0xdeee/status/1464283270992986112
+
+## Day 17
+https://twitter.com/0xdeee/status/1464283270992986112
