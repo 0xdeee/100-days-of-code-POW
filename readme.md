@@ -72,6 +72,22 @@
 
 <https://twitter.com/0xdeee/status/1468014895769681923>
 
+## Day 19
+
+https://twitter.com/0xdeee/status/1469710178396213251
+
+## Day 20
+
+https://twitter.com/0xdeee/status/1469861615348563968
+
+## Day 21
+
+https://twitter.com/0xdeee/status/1470616385961152515
+
+## Day 22
+
+https://twitter.com/0xdeee/status/1470921550509404164
+
 ## Day 23
 
 https://twitter.com/0xdeee/status/1471185020723232770
