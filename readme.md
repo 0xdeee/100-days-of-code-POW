@@ -71,3 +71,7 @@
 ## Day 18
 
 <https://twitter.com/0xdeee/status/1468014895769681923>
+
+## Day 23
+
+https://twitter.com/0xdeee/status/1471185020723232770
