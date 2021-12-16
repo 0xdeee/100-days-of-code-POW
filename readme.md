@@ -91,3 +91,8 @@ https://twitter.com/0xdeee/status/1470921550509404164
 ## Day 23
 
 https://twitter.com/0xdeee/status/1471185020723232770
+
+## Day 24
+
+https://twitter.com/0xdeee/status/1471508275661213702
+
